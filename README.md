@@ -12,16 +12,21 @@ A package manager like npm or yarn.
 **🧑‍💻 **InstallInstalling Playwrigh****
 
 1.Initialize a new Node.js project (if not already initialized)
-
-npm init -y
+   ```bash
+  npm init -y
+   ```
 
 2.Install Playwright
-
-npm install playwright
+ ```bash
+ npm install playwright
+   ```
 
 3.Download browser binaries
+ ```bash
+  npx playwright install
+   ```
 
-npx playwright install
+
 
 
 
